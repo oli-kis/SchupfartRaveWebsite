@@ -1,0 +1,485 @@
+[{
+    "img": "assets/img/04.02.2023/kaisten1.jpeg",
+    "filter": "andere",
+    "width":"col"
+  },
+  {
+    "img": "assets/img/04.02.2023/kaisten2.jpeg",
+    "filter": "andere",
+    "width":"col"
+  },
+  {
+    "img": "assets/img/04.02.2023/kaisten3.jpg",
+    "filter": "andere",
+    "width":"col"
+  },
+  {
+    "img": "assets/img/04.02.2023/kaisten4.jpg",
+    "filter": "andere",
+    "width":"col"
+  },
+  {
+    "img": "assets/img/04.02.2023/kaisten5.jpg",
+    "filter": "andere",
+    "width":"col"
+  },
+  {
+    "img": "assets/img/14.01.2023/HerznachTurnershow5.jpg",
+    "filter": "andere",
+    "width":"col"
+  },
+  {
+    "img": "assets/img/14.01.2023/HerznachTurnershow4.jpg",
+    "filter": "andere",
+    "width":"col"
+  },
+  {
+    "img": "assets/img/14.01.2023/HerznachTurnershow3.jpeg",
+    "filter": "andere",
+    "width":"col"
+  },
+  {
+    "img": "assets/img/14.01.2023/HerznachTurnershow2.jpeg",
+    "filter": "andere",
+    "width":"col"
+  },
+  {
+    "img": "assets/img/14.01.2023/HerznachTurnershow1.JPG",
+    "filter": "andere",
+    "width":"col"
+  },
+  {
+    "img": "assets/img/14.01.2023/HerznachTurnershow.JPG",
+    "filter": "andere",
+    "width":"col"
+  },
+  {
+    "img": "assets/img/01.01.2023/silvester1.jpg",
+    "filter": "garage",
+    "width":"col"
+  },
+  {
+    "img": "assets/img/01.01.2023/silvester2.JPEG",
+    "filter": "garage",
+    "width":"col"
+  },
+  {
+    "img": "assets/img/01.01.2023/silvester4.jpg",
+    "filter": "garage",
+    "width":"col"
+  },
+  {
+    "img": "assets/img/01.01.2023/silvester5.jpg",
+    "filter": "garage",
+    "width":"col"
+  },
+  {
+    "img": "assets/img/01.01.2023/silvester6.jpg",
+    "filter": "garage",
+    "width":"col"
+  },
+  {
+    "img": "assets/img/01.01.2023/silvester7.jpg",
+    "filter": "garage",
+    "width":"col"
+  },
+  {
+    "img": "assets/img/01.01.2023/silvester8.jpg",
+    "filter": "garage",
+    "width":"col"
+  },
+  {
+    "img": "assets/img/01.01.2023/silvester9.jpg",
+    "filter": "garage",
+    "width":"col"
+  },
+  {
+    "img": "assets/img/01.01.2023/silvester10.jpg",
+    "filter": "garage",
+    "width":"col"
+  },
+  {
+    "img": "assets/img/01.01.2023/silvester11.jpg",
+    "filter": "garage"
+  },
+  {
+    "img": "assets/img/01.01.2023/silvester12.jpg",
+    "filter": "garage",
+    "width":"col"
+  },
+  {
+    "img": "assets/img/01.01.2023/silvester13.jpg",
+    "filter": "garage",
+    "width":"col"
+  },
+  {
+    "img": "assets/img/02.01.2023/fondueplausch1.JPG",
+    "filter": "andere",
+    "width":"col"
+  },
+  {
+    "img": "assets/img/02.01.2023/fondueplausch2.jpg",
+    "filter": "andere",
+    "width":"col"
+  },
+  {
+    "img": "assets/img/02.01.2023/fondueplausch3.jpg",
+    "filter": "andere",
+    "width":"col"
+  },
+  {
+    "img": "assets/img/02.01.2023/fondueplausch4.jpg",
+    "filter": "andere",
+    "width":"col"
+  },
+  {
+    "img": "assets/img/02.01.2023/fondueplausch5.jpg",
+    "filter": "andere",
+    "width":"col"
+  },
+  {
+    "img": "assets/img/02.01.2023/fondueplausch6.jpg",
+    "filter": "andere",
+    "width":"col"
+  },
+  {
+    "img": "assets/img/02.01.2023/fondueplausch7.jpg",
+    "filter": "andere",
+    "width":"col"
+  },
+  {
+    "img": "assets/img/02.01.2023/fondueplausch8.jpg",
+    "filter": "andere",
+    "width":"col"
+  },
+  {
+    "img": "assets/img/02.01.2023/fondueplausch9.jpg",
+    "filter": "andere",
+    "width":"col"
+  },
+  {
+    "img": "assets/img/02.01.2023/fondueplausch10.jpg",
+    "filter": "andere",
+    "width":"col"
+  },
+  {
+    "img": "assets/img/02.01.2023/fondueplausch11.jpg",
+    "filter": "andere",
+    "width":"col"
+  },
+  {
+    "img": "assets/img/02.01.2023/fondueplausch12.jpg",
+    "filter": "andere",
+    "width":"col"
+  },
+  {
+    "img": "assets/img/02.01.2023/fondueplausch13.jpg",
+    "filter": "andere",
+    "width":"col"
+  },
+  {
+    "img": "assets/img/02.01.2023/fondueplausch14.jpg",
+    "filter": "andere",
+    "width":"col"
+  },
+  {
+    "img": "assets/img/05.11.2022/effingen.jpg",
+    "filter": "andere",
+    "width":"col"
+  },
+  {
+    "img": "assets/img/05.11.2022/effingen1.jpg",
+    "filter": "andere",
+    "width":"col"
+  },
+  {
+    "img": "assets/img/10.11.2022/frick1.jpeg",
+    "filter": "andere",
+    "width":"col"
+  },
+  {
+    "img": "assets/img/10.11.2022/frick2.jpeg",
+    "filter": "andere",
+    "width":"col"
+  },
+  {
+    "img": "assets/img/10.11.2022/frick3.jpeg",
+    "filter": "andere",
+    "width":"col"
+  },
+  {
+    "img": "assets/img/10.11.2022/frick4.jpeg",
+    "filter": "andere",
+    "width":"col"
+  },
+  {
+    "img": "assets/img/10.11.2022/frick5.jpeg",
+    "filter": "andere",
+    "width":"col"
+  },
+  {
+    "img": "assets/img/11.11.2022/lele-geburi.jpeg",
+    "filter": "alle",
+    "width":"col"
+  },
+  {
+    "img": "assets/img/11.11.2022/lele-geburi1.jpeg",
+    "filter": "andere",
+    "width":"col"
+  },
+  {
+    "img": "assets/img/11.11.2022/lele-geburi2.jpeg",
+    "filter": "andere",
+    "width":"col"
+  },
+  {
+    "img": "assets/img/11.11.2022/lele-geburi3.jpeg",
+    "filter": "andere",
+    "width":"row"
+  },
+  {
+    "img": "assets/img/11.11.2022/lele-geburi4.jpeg",
+    "filter": "andere",
+    "width":"col"
+  },
+  {
+    "img": "assets/img/11.11.2022/lele-geburi5.jpeg",
+    "filter": "andere",
+    "width":"col"
+  },
+  {
+    "img": "assets/img/11.11.2022/lele-geburi6.jpeg",
+    "filter": "andere",
+    "width":"col"
+  },
+  {
+    "img": "assets/img/11.11.2022/lele-geburi7.jpeg",
+    "filter": "andere",
+    "width":"col"
+  },
+  {
+    "img": "assets/img/11.11.2022/lele-geburi8.jpeg",
+    "filter": "andere",
+    "width":"col"
+  },
+  {
+    "img": "assets/img/11.11.2022/lele-geburi9.jpeg",
+    "filter": "andere",
+    "width":"col"
+  },
+  {
+    "img": "assets/img/11.11.2022/lele-geburi10.jpeg",
+    "filter": "andere",
+    "width":"col"
+  },
+  {
+    "img": "assets/img/11.11.2022/lele-geburi11.jpeg",
+    "filter": "andere",
+    "width":"col"
+  },
+  {
+    "img": "assets/img/14.10.2022/garage.jpeg",
+    "filter": "garage",
+    "width":"col"
+  },
+  {
+    "img": "assets/img/14.10.2022/garage1.jpeg",
+    "filter": "garage",
+    "width":"col"
+  },
+  {
+    "img": "assets/img/14.10.2022/garage3.jpeg",
+    "filter": "garage",
+    "width":"col"
+  },
+  {
+    "img": "assets/img/14.10.2022/garage4.jpeg",
+    "filter": "garage",
+    "width":"col"
+  },
+  {
+    "img": "assets/img/14.10.2022/garage5.jpeg",
+    "filter": "garage",
+    "width":"col"
+  },
+  {
+    "img": "assets/img/14.10.2022/garage6.jpeg",
+    "filter": "garage",
+    "width":"col"
+  },
+  {
+    "img": "assets/img/14.10.2022/garage7.jpeg",
+    "filter": "garage",
+    "width":"col"
+  },
+  {
+    "img": "assets/img/14.10.2022/garage8.jpeg",
+    "filter": "garage",
+    "width":"col"
+  },
+  {
+    "img": "assets/img/14.10.2022/garage9.jpeg",
+    "filter": "garage",
+    "width":"col"
+  },
+  {
+    "img": "assets/img/14.10.2022/garage10.jpeg",
+    "filter": "garage",
+    "width":"col"
+  },
+  {
+    "img": "assets/img/14.10.2022/garage11.jpeg",
+    "filter": "garage",
+    "width":"col"
+  },
+  {
+    "img": "assets/img/14.10.2022/garage12.jpeg",
+    "filter": "garage",
+    "width":"col"
+  },
+  {
+    "img": "assets/img/17.12.2022/171222-1.JPG",
+    "filter": "andere",
+    "width":"col"
+  },
+  {
+    "img": "assets/img/17.12.2022/171222-2.jpg",
+    "filter": "andere",
+    "width":"col"
+  },
+  {
+    "img": "assets/img/17.12.2022/171222-3.JPEG",
+    "filter": "andere",
+    "width":"col"
+  },
+  {
+    "img": "assets/img/17.12.2022/171222-4.JPEG",
+    "filter": "andere",
+    "width":"col"
+  },
+  {
+    "img": "assets/img/17.12.2022/171222-5.JPEG",
+    "filter": "andere",
+    "width":"col"
+  },
+  {
+    "img": "assets/img/17.12.2022/171222-6.JPEG",
+    "filter": "andere",
+    "width":"col"
+  },
+  {
+    "img": "assets/img/26.12.2022/stefansball1.JPEG",
+    "filter": "andere",
+    "width":"col"
+  },
+  {
+    "img": "assets/img/26.12.2022/stefansball2.jpg",
+    "filter": "andere",
+    "width":"col"
+  },
+  {
+    "img": "assets/img/26.12.2022/stefansball3.jpg",
+    "filter": "andere",
+    "width":"col"
+  },
+  {
+    "img": "assets/img/26.12.2022/stefansball4.jpg",
+    "filter": "andere",
+    "width":"col"
+  },
+  {
+    "img": "assets/img/26.12.2022/stefansball5.jpg",
+    "filter": "andere",
+    "width":"col"
+  },
+  {
+    "img": "assets/img/newpics/casioDrip.png",
+    "filter": "andere",
+    "width":"col"
+  },
+  {
+    "img": "assets/img/newpics/deissHomeparty.png",
+    "filter": "andere",
+    "width":"col"
+  },
+  {
+    "img": "assets/img/newpics/deissWhirlpool.png",
+    "filter": "andere",
+    "width":"col"
+  },
+  {
+    "img": "assets/img/newpics/ersterAugust.png",
+    "filter": "andere",
+    "width":"col"
+  },
+  {
+    "img": "assets/img/newpics/garageMiro.png",
+    "filter": "garage",
+    "width":"col"
+  },
+  {
+    "img": "assets/img/newpics/garageNebel.png",
+    "filter": "garage",
+    "width":"col"
+  },
+  {
+    "img": "assets/img/newpics/garageNebel1.png",
+    "filter": "garage",
+    "width":"col"
+  },
+  {
+    "img": "assets/img/newpics/garageNoa.png",
+    "filter": "garage",
+    "width":"col"
+  },
+  {
+    "img": "assets/img/newpics/SchupfartLenny.png",
+    "filter": "Schupfart",
+    "width":"col"
+  },
+  {
+    "img": "assets/img/newpics/schupfartTimo.png",
+    "filter": "Schupfart",
+    "width":"col"
+  },
+  {
+    "img": "assets/img/newpics/sichtfeldMiroTimo.png",
+    "filter": "andere",
+    "width":"col"
+  },
+  {
+    "img": "assets/img/newpics/sichtfeldStefanLorenz.png",
+    "filter": "andere",
+    "width":"col"
+  },
+  {
+    "img": "assets/img/newpics/sinnespfadFeuer.png",
+    "filter": "andere",
+    "width":"col"
+  },
+  {
+    "img": "assets/img/newpics/sinnespfadMarc.png",
+    "filter": "andere",
+    "width":"col"
+  },
+  {
+    "img": "assets/img/newpics/sinnespfadSilja.png",
+    "filter": "andere",
+    "width":"col"
+  },
+  {
+    "img": "assets/img/newpics/tessinBabos.png",
+    "filter": "andere",
+    "width":"col"
+  },
+  {
+    "img": "assets/img/newpics/tessinMiroMinta.png",
+    "filter": "andere",
+    "width":"col"
+  },
+  {
+    "img": "assets/img/newpics/veloMiro.png",
+    "filter": "andere",
+    "width":"col"
+  }
+]
