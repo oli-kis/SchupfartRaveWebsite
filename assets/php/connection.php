@@ -1,6 +1,6 @@
 <?php
-$dsn = 'mysql:dbname=u484802095_users;host=localhost';
-$username = 'u484802095_olivier';
-$password = '[lODA1>p>IX0';
+$dsn = 'dsn';
+$username = 'username';
+$password = 'top-secret';
 
 $con = new PDO($dsn, $username, $password);
